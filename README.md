@@ -1,15 +1,27 @@
 # Machine Learning From Scratch
 
-This repository contains a collection of Machine Learning labs implemented in Python using Jupyter notebooks.
+This repository contains a collection of machine learning labs implemented from scratch using Python.
 
-The goal of these labs is to understand the mathematical foundations and internal mechanisms of machine learning algorithms by implementing them from scratch and analyzing their behavior on real datasets.
+The main objective is to deeply understand the mathematical foundations and internal mechanisms behind classical machine learning algorithms through implementation, experimentation, and performance analysis on real datasets.
 
 ---
 
-# Technologies Used
+# 🎯 Objectives
+
+This project focuses on:
+
+- Implementing machine learning algorithms from scratch
+- Understanding the mathematical foundations behind models
+- Analyzing model behavior and performance
+- Studying generalization vs overfitting
+- Experimenting with optimization techniques
+- Comparing different learning strategies
+
+---
+
+# 🛠️ Technologies Used
 
 - Python
-- Jupyter Notebook
 - NumPy
 - pandas
 - scikit-learn
@@ -18,25 +30,22 @@ The goal of these labs is to understand the mathematical foundations and interna
 
 ---
 
-# Labs Overview
+# 📚 Labs Overview
 
 ## Lab 01 — Logistic Regression
 
-Implementation and analysis of:
-- Linear Regression
-- Binary Logistic Regression
-- Multi-class Logistic Regression
-- Multi-label Logistic Regression
+Implementation and analysis of different logistic regression models.
 
-### Main Concepts
-- Logistic function
-- Softmax
+### 🔑 Main Concepts
+- Linear Regression
+- Logistic Function
+- Softmax Function
 - Cross-Entropy Loss
 - Gradient Descent
 - One-vs-Rest (OvR)
 - One-vs-One (OvO)
 
-### Datasets
+### 📊 Datasets
 - Grades Dataset
 - Body Performance Dataset
 
@@ -44,86 +53,84 @@ Implementation and analysis of:
 
 ## Lab 02 — Regularization and Feature Selection
 
-Implementation of:
+Implementation of regularization techniques and feature selection methods.
+
+### 🔑 Main Concepts
 - L1 Regularization (Lasso)
 - L2 Regularization (Ridge)
-- Feature Selection using ANOVA
-
-### Main Concepts
 - Overfitting vs Generalization
-- Regularization penalties
 - Soft-thresholding
 - Feature filtering
 - ANOVA statistical analysis
 
-### Dataset
-- Diabetics Prediction Dataset
+### 📊 Dataset
+- Diabetes Prediction Dataset
 
 ---
 
 ## Lab 03 — Decision Trees and Ensemble Learning
 
-Implementation and analysis of:
-- ID3 Decision Trees
-- CART Decision Trees
-- Random Forests
-- Ensemble Learning techniques
+Implementation and study of tree-based and ensemble methods.
 
-### Main Concepts
+### 🔑 Main Concepts
 - Entropy
 - Gini Impurity
 - Information Gain
-- Feature Splitting
+- ID3 Algorithm
+- CART Algorithm
+- Random Forests
 - Bootstrap Sampling
 
-### Dataset
+### 📊 Dataset
 - Cars Dataset
 
 ---
 
 ## Lab 04 — Naive Bayes
 
-Implementation of:
-- Multinomial Naive Bayes
-- Gaussian Naive Bayes
+Implementation of probabilistic classification models.
 
-### Main Concepts
-- Prior probabilities
-- Likelihood estimation
-- Gaussian distribution
-- Laplace smoothing
+### 🔑 Main Concepts
+- Prior Probability
+- Likelihood Estimation
+- Gaussian Distribution
+- Multinomial Model
+- Laplace Smoothing
 
-### Dataset
+### 📊 Dataset
 - SMS Spam Collection Dataset
 
 ---
 
 ## Lab 05 — Support Vector Machines and Optimization
 
-Implementation and analysis of:
+Implementation and analysis of SVM models and optimization methods.
+
+### 🔑 Main Concepts
 - Primal SVM
 - Dual SVM
-- Kernel methods
+- Margin Maximization
+- Kernel Methods
 - Stochastic Gradient Descent
+- Optimization & Duality
 
-### Main Concepts
-- Margin maximization
-- Optimization
-- Kernels
-- Duality
-- SGD optimization
-
-### Datasets
+### 📊 Datasets
 - Iris Dataset
 - Synthetic Circles Dataset
 
 ---
 
-# Objectives
+# 📌 Key Highlights
 
-These labs focus on:
-- Implementing ML algorithms from scratch
-- Understanding mathematical foundations
-- Comparing model behaviors
-- Evaluating performance and generalization
-- Experimenting with optimization techniques
+- Algorithms implemented from scratch
+- Strong focus on mathematical understanding
+- Practical experiments on real datasets
+- Comparison of multiple learning approaches
+- Optimization and performance analysis
+
+---
+
+# 👩‍💻 Author
+
+Selma Mezdour  
+Computer Science Student | Machine Learning Enthusiast
