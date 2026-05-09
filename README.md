@@ -129,8 +129,3 @@ Implementation and analysis of SVM models and optimization methods.
 - Optimization and performance analysis
 
 ---
-
-# 👩‍💻 Author
-
-Selma Mezdour  
-Computer Science Student | Machine Learning Enthusiast
